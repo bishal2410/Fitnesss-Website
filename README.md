@@ -1,2 +1,4 @@
-# Fitnesss-Website
-- A website which offers fitness consultation and various fitness related services. User can book appointment with trainer and take fitness consultat
+# Gym_website
+
+
+demo: https://james028.github.io/Gym_website/
